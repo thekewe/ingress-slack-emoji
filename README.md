@@ -4,6 +4,8 @@ These are custom made Ingress emoji for use in Slack. Fully tested, agent approv
 
 ![Example screenshot of Ingress emoji](https://raw.githubusercontent.com/thekewe/ingress-slack-emoji/master/example.png)
 
+![Example screenshot of Ingress Glyph emoji](https://raw.githubusercontent.com/thekewe/ingress-slack-emoji/master/example_glyphs.png)
+
 
 ## Installation
 
