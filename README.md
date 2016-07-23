@@ -1,6 +1,6 @@
 # Ingress Emoji for Slack
 
-These are custom made Ingress emoji for use in Slack. Fully tested, agent approved by the San Francisco ResistSF community.
+These are custom made Ingress emoji for use in Slack.
 
 ![Example screenshot of Ingress emoji](https://raw.githubusercontent.com/thekewe/ingress-slack-emoji/master/example.png)
 
@@ -14,9 +14,7 @@ Follow these instructions to [install Custom Emoji on Slack](https://slack.zende
 
 ## Contact Me
 
-I'd love to hear your feedback and requests.
+I'd love to hear your feedback and requests!
 
-Email me at <thekewe@resists.org> or visit [thekewe.com](http://thekewe.com) or just send me hugs on COMM: @thekewe.
+If you have any questions, need help installing, or just want to send me hugs (definitely yes!), contact me at <thekewe@gmail.com> or visit [thekewe.com](http://thekewe.com).
 
-
-Join the [San Francisco Bay Area Resistance Community](http://sfbay.resists.org/)
