@@ -16,5 +16,4 @@ Follow these instructions to [install Custom Emoji on Slack](https://slack.zende
 
 I'd love to hear your feedback and requests!
 
-If you have any questions, need help installing, or just want to send me hugs (definitely yes!), contact me at <thekewe@gmail.com> or visit [thekewe.com](http://thekewe.com).
-
+If you have any questions, need help installing, or just want to send me hugs (definitely yes!), contact me at <thekewe@gmail.com> or Ingress Comm @thekewe.
